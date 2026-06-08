@@ -1,0 +1,24 @@
+Adaptive retrieval-augmented generation (RAG) skips retrieval when a language
+model is judged confident enough to answer from parametric memory, trading
+accuracy for cost and latency. The component that makes this choice, the
+retrieve/skip gate, is safety-critical: a skip taken when the model would
+hallucinate sends an unsupported answer to the user. Existing adaptive-RAG gates
+(FLARE, Self-RAG, Adaptive-RAG) tune a confidence threshold offline, provide no
+formal guarantee on this harmful-skip event, and, as we show, drift across
+distributions. We reframe the gate as a risk-controlled
+selective-prediction decision under asymmetric cost and apply Conformal Risk
+Control (CRC). Given an ignorance score that estimates the probability the model
+answers wrongly without retrieval, the gate skips the lowest-scoring queries,
+and the threshold is calibrated so the expected harmful-skip rate stays below a
+user-chosen tolerance. Because the calibration is conformal, the bound is
+finite-sample and distribution-free. The decisive move is what we conformalize:
+the gate decision, not the generated answer. On two model families
+(Qwen2.5-3B, Phi-3.5-mini) across TriviaQA and PopQA, the realized rate tracks
+the target dial almost exactly from a 2\% to a 20\% tolerance. A fixed
+threshold calibrated on one distribution overshoots the hallucination budget by
+34--58\% on another, whereas per-distribution conformal calibration restores
+control. The skip rate auto-scales with model competence (35\% versus 18\% skips
+at a fixed tolerance). We characterize when group-conditional (Mondrian)
+calibration is needed, only under label shift given features and not proportion
+shift, and validate the gate end-to-end with a live retriever as a guaranteed
+cost/accuracy dial.

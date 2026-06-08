@@ -1,0 +1,483 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./conformal-gating.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(./cas-dc.cls
+Document Class: cas-dc 2024/05/04, 2.4: Formatting class for CAS double column 
+articles
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/fleqn.clo)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+) (/Users/arif/Library/texmf/tex/latex/etoolbox/etoolbox.sty)
+(/Users/arif/Library/texmf/tex/latex/preprint/balance.sty)
+(/Users/arif/Library/texmf/tex/latex/booktabs/booktabs.sty)
+(/Users/arif/Library/texmf/tex/latex/makecell/makecell.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/array.sty))
+(/Users/arif/Library/texmf/tex/latex/multirow/multirow.sty)
+(/Users/arif/Library/texmf/tex/latex/colortbl/colortbl.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/mathcolor.ltx)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/dcolumn.sty)
+(/Users/arif/Library/texmf/tex/latex/sttools/stfloats.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/xspace.sty)
+(/Users/arif/Library/texmf/tex/generic/xstring/xstring.sty
+(/Users/arif/Library/texmf/tex/generic/xstring/xstring.tex))
+(/Users/arif/Library/texmf/tex/latex/footmisc/footmisc.sty
+(/Users/arif/Library/texmf/tex/latex/footmisc/footmisc-2022-02-14.sty))
+(/Users/arif/Library/texmf/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/Users/arif/Library/texmf/tex/latex/xcolor/svgnam.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
+sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/Users/arif/Library/texmf/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/gettitlestring/gettitlestr
+ing.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
+k.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/uniquecounter/uniquecounte
+r.sty))) (./cas-common.sty
+(/Users/arif/Library/texmf/tex/latex/moreverb/moreverb.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/verbatim.sty))
+(/Users/arif/Library/texmf/tex/latex/wrapfig/wrapfig.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/fontenc.sty)
+(/Users/arif/Library/texmf/tex/latex/stix/stix.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/textcomp.sty))
+(/Users/arif/Library/texmf/tex/latex/inconsolata/inconsolata.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(/Users/arif/Library/texmf/tex/latex/xkeyval/xkeyval.sty
+(/Users/arif/Library/texmf/tex/generic/xkeyval/xkeyval.tex
+(/Users/arif/Library/texmf/tex/generic/xkeyval/xkvutils.tex))))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifvtex.sty)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/natbib/natbib.sty)
+(/Users/arif/Library/texmf/tex/latex/stix/t1stix.fd) (./conformal-gating.aux)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stix.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stix.fd)
+(/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty (/usr/local/texlive/2025basic/texmf-dist/tex/latex/grfext/grfext.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+)) (./conformal-gating.out) (./conformal-gating.out)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/upquote/upquote.sty)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/Users/arif/Library/texmf/tex/latex/stix/ts1stix.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixscr.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixex.fd)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixfrak.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixbb.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixcal.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixsf.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixtt.fd)
+[0{/Users/arif/Library/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdft
+ex.map}{/Users/arif/Library/texmf/fonts/enc/dvips/stix/stix-t1.enc}{/Users/arif
+/Library/texmf/fonts/enc/dvips/stix/stix-ts1.enc}]
+Overfull \hbox (123.62721pt too wide) detected at line 71
+[]
+(./conformal-gating.abs)
+
+Package hyperref Warning: Ignoring empty anchor on input line 71.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 71.
+
+(/Users/arif/Library/texmf/tex/latex/inconsolata/t1zi4.fd)
+
+Package hyperref Warning: Ignoring empty anchor on input line 71.
+
+
+Overfull \hbox (3.92468pt too wide) in paragraph at lines 95--105
+[]\T1/stix/m/n/10 Existing adaptive-RAG gates fix a con-fi-dence threshold---
+
+
+[1 <./thumbnails/cas-email.jpeg>]
+Underfull \hbox (badness 2293) in paragraph at lines 136--140
+\T1/stix/m/n/10 cal-i-bra-tion is needed---only un-der label-shift-given-
+
+
+Overfull \hbox (1.59045pt too wide) in paragraph at lines 196--207
+[]\T1/stix/b/n/10 Conformalizing the an-swer. \T1/stix/m/n/10 The ma-jor-ity of
+ conformal-
+
+Underfull \hbox (badness 1783) in paragraph at lines 196--207
+\T1/stix/m/n/10 uncertainty?---[][]Xiong et al.[][] ([][]2024[][]) show that ca
+l-i-brated
+
+Underfull \hbox (badness 1688) in paragraph at lines 218--223
+\T1/stix/m/n/10 de-ci-sion; we con-trol the \T1/stix/m/it/10 pre-generation in-
+put de-ci-sion\T1/stix/m/n/10 :
+
+Overfull \hbox (0.35042pt too wide) in paragraph at lines 218--223
+\T1/stix/m/n/10 whether to re-trieve. This is a struc-turally dis-tinct guarant
+ee---
+
+[2{/Users/arif/Library/texmf/fonts/enc/dvips/inconsolata/i4-t1-0.enc}]
+Overfull \hbox (4.40555pt too wide) in paragraph at lines 245--253
+[]\T1/stix/m/n/10 Selective pre-dic-tion ([][]Geif-man and El-Yaniv[][], [][]20
+17[][]) frames
+
+Overfull \hbox (60.01382pt too wide) in paragraph at lines 259--264
+\T1/stix/m/n/10 i-dence (\T1/stix/m/sc/10 retrieve\T1/stix/m/n/10 ). Let $\LS1/
+stix/m/it/10 w\LS1/stix/m/n/10 .\LS1/stix/m/it/10 x\LS1/stix/m/n/10 / = \LS1/st
+ix/b/n/10 1\LS1/stix/m/n/10 [\LS1/stix/m/it/10 M[]x[]\LS1/stix/m/n/10 ]$\T1/sti
+x/m/n/10 .
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 325--332
+\T1/stix/m/n/10 sample cor-rec-tion; \T1/stix/b/n/10 fixed-threshold\T1/stix/m/
+n/10 , the same thresh-old
+
+Underfull \hbox (badness 1199) in paragraph at lines 325--332
+\T1/stix/m/n/10 cal-i-brated on one dis-tri-bu-tion and de-ployed on an-other
+
+[3]
+Overfull \hbox (2.65244pt too wide) in paragraph at lines 366--371
+ []\T1/stix/m/it/11 End-to-end re-triever.[] \T1/stix/m/n/10 For the down-strea
+m eval-u-a-tion (Sec-
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `') on input line 494.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `') on input line 521.
+
+
+[4]
+
+[5 <./figs/fig1_coverage.pdf>]
+
+[6 <./figs/fig3_mondrian.pdf> <./figs/fig4_endtoend.pdf>]
+(./conformal-gating.bbl
+Underfull \hbox (badness 1931) in paragraph at lines 62--70
+[]\T1/stix/m/n/8 Bates, S., An-gelopou-los, A., Lei, L., Ma-lik, J., Jor-dan, M
+.I., 2021.
+
+[7]
+Underfull \hbox (badness 4279) in paragraph at lines 238--243
+[]\T1/stix/m/n/8 Qwen Team, 2024.  Qwen2.5 tech-ni-cal re-port.  arXiv preprint
+
+)
+
+[8] (./conformal-gating.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information) </Users/arif/Library/texli
+ve/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi0900.600pk> </Users/arif
+/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0900.600pk
+> </Users/arif/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/
+ecss0900.600pk></Users/arif/Library/texmf/fonts/type1/public/inconsolata/Incons
+olata-zi4r.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/STIXGeneral-B
+old.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/STIXGeneral-Italic.p
+fb></Users/arif/Library/texmf/fonts/type1/public/stix/STIXGeneral-Regular.pfb><
+/Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathbb.pfb></Users/arif/
+Library/texmf/fonts/type1/public/stix/stix-mathcal.pfb></Users/arif/Library/tex
+mf/fonts/type1/public/stix/stix-mathex.pfb></Users/arif/Library/texmf/fonts/typ
+e1/public/stix/stix-mathit.pfb></Users/arif/Library/texmf/fonts/type1/public/st
+ix/stix-mathrm-bold.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/stix
+-mathrm.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathscr.pfb
+></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathsf.pfb></Users/ari
+f/Library/texmf/fonts/type1/public/stix/stix-mathtt.pfb>
+Output written on conformal-gating.pdf (9 pages, 322249 bytes).
+Transcript written on conformal-gating.log.
+This is BibTeX, Version 0.99d (TeX Live 2025)
+The top-level auxiliary file: conformal-gating.aux
+The style file: cas-model2-names.bst
+Database file #1: references.bib
+Warning--empty pages in angelopoulos2024crc
+Warning--empty pages in asai2024selfrag
+Warning--empty pages in geifman2017selective
+Warning--empty pages in kuhn2023semantic
+Warning--empty pages in kumar2023conformalqa
+Warning--empty pages in quach2024conformallm
+Warning--empty pages in ren2023knowno
+Warning--empty pages in tibshirani2019covariate
+Warning--empty pages in wang2023selfconsistency
+Warning--empty pages in xiong2024llmuncertainty
+(There were 10 warnings)
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./conformal-gating.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(./cas-dc.cls
+Document Class: cas-dc 2024/05/04, 2.4: Formatting class for CAS double column 
+articles
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/fleqn.clo)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+) (/Users/arif/Library/texmf/tex/latex/etoolbox/etoolbox.sty)
+(/Users/arif/Library/texmf/tex/latex/preprint/balance.sty)
+(/Users/arif/Library/texmf/tex/latex/booktabs/booktabs.sty)
+(/Users/arif/Library/texmf/tex/latex/makecell/makecell.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/array.sty))
+(/Users/arif/Library/texmf/tex/latex/multirow/multirow.sty)
+(/Users/arif/Library/texmf/tex/latex/colortbl/colortbl.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/mathcolor.ltx)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/dcolumn.sty)
+(/Users/arif/Library/texmf/tex/latex/sttools/stfloats.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/xspace.sty)
+(/Users/arif/Library/texmf/tex/generic/xstring/xstring.sty
+(/Users/arif/Library/texmf/tex/generic/xstring/xstring.tex))
+(/Users/arif/Library/texmf/tex/latex/footmisc/footmisc.sty
+(/Users/arif/Library/texmf/tex/latex/footmisc/footmisc-2022-02-14.sty))
+(/Users/arif/Library/texmf/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/Users/arif/Library/texmf/tex/latex/xcolor/svgnam.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
+sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/Users/arif/Library/texmf/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/gettitlestring/gettitlestr
+ing.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
+k.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/uniquecounter/uniquecounte
+r.sty))) (./cas-common.sty
+(/Users/arif/Library/texmf/tex/latex/moreverb/moreverb.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/verbatim.sty))
+(/Users/arif/Library/texmf/tex/latex/wrapfig/wrapfig.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/fontenc.sty)
+(/Users/arif/Library/texmf/tex/latex/stix/stix.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/textcomp.sty))
+(/Users/arif/Library/texmf/tex/latex/inconsolata/inconsolata.sty
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(/Users/arif/Library/texmf/tex/latex/xkeyval/xkeyval.sty
+(/Users/arif/Library/texmf/tex/generic/xkeyval/xkeyval.tex
+(/Users/arif/Library/texmf/tex/generic/xkeyval/xkvutils.tex))))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifvtex.sty)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/natbib/natbib.sty)
+(/Users/arif/Library/texmf/tex/latex/stix/t1stix.fd) (./conformal-gating.aux)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stix.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stix.fd)
+(/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty (/usr/local/texlive/2025basic/texmf-dist/tex/latex/grfext/grfext.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+)) (./conformal-gating.out) (./conformal-gating.out)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/upquote/upquote.sty)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/Users/arif/Library/texmf/tex/latex/stix/ts1stix.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixscr.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixex.fd)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixfrak.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixbb.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixcal.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixsf.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixtt.fd)
+[0{/Users/arif/Library/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdft
+ex.map}{/Users/arif/Library/texmf/fonts/enc/dvips/stix/stix-t1.enc}{/Users/arif
+/Library/texmf/fonts/enc/dvips/stix/stix-ts1.enc}]
+Overfull \hbox (123.62721pt too wide) detected at line 71
+[]
+(./conformal-gating.abs)
+
+Package hyperref Warning: Ignoring empty anchor on input line 71.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 71.
+
+(/Users/arif/Library/texmf/tex/latex/inconsolata/t1zi4.fd)
+
+Package hyperref Warning: Ignoring empty anchor on input line 71.
+
+
+Overfull \hbox (3.92468pt too wide) in paragraph at lines 95--105
+[]\T1/stix/m/n/10 Existing adaptive-RAG gates fix a con-fi-dence threshold---
+
+
+[1 <./thumbnails/cas-email.jpeg>]
+Underfull \hbox (badness 2293) in paragraph at lines 136--140
+\T1/stix/m/n/10 cal-i-bra-tion is needed---only un-der label-shift-given-
+
+
+Overfull \hbox (1.59045pt too wide) in paragraph at lines 196--207
+[]\T1/stix/b/n/10 Conformalizing the an-swer. \T1/stix/m/n/10 The ma-jor-ity of
+ conformal-
+
+Underfull \hbox (badness 1783) in paragraph at lines 196--207
+\T1/stix/m/n/10 uncertainty?---[][]Xiong et al.[][] ([][]2024[][]) show that ca
+l-i-brated
+
+Underfull \hbox (badness 1688) in paragraph at lines 218--223
+\T1/stix/m/n/10 de-ci-sion; we con-trol the \T1/stix/m/it/10 pre-generation in-
+put de-ci-sion\T1/stix/m/n/10 :
+
+Overfull \hbox (0.35042pt too wide) in paragraph at lines 218--223
+\T1/stix/m/n/10 whether to re-trieve. This is a struc-turally dis-tinct guarant
+ee---
+
+[2{/Users/arif/Library/texmf/fonts/enc/dvips/inconsolata/i4-t1-0.enc}]
+Overfull \hbox (4.40555pt too wide) in paragraph at lines 245--253
+[]\T1/stix/m/n/10 Selective pre-dic-tion ([][]Geif-man and El-Yaniv[][], [][]20
+17[][]) frames
+
+Overfull \hbox (60.01382pt too wide) in paragraph at lines 259--264
+\T1/stix/m/n/10 i-dence (\T1/stix/m/sc/10 retrieve\T1/stix/m/n/10 ). Let $\LS1/
+stix/m/it/10 w\LS1/stix/m/n/10 .\LS1/stix/m/it/10 x\LS1/stix/m/n/10 / = \LS1/st
+ix/b/n/10 1\LS1/stix/m/n/10 [\LS1/stix/m/it/10 M[]x[]\LS1/stix/m/n/10 ]$\T1/sti
+x/m/n/10 .
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 325--332
+\T1/stix/m/n/10 sample cor-rec-tion; \T1/stix/b/n/10 fixed-threshold\T1/stix/m/
+n/10 , the same thresh-old
+
+Underfull \hbox (badness 1199) in paragraph at lines 325--332
+\T1/stix/m/n/10 cal-i-brated on one dis-tri-bu-tion and de-ployed on an-other
+
+[3]
+Overfull \hbox (2.65244pt too wide) in paragraph at lines 366--371
+ []\T1/stix/m/it/11 End-to-end re-triever.[] \T1/stix/m/n/10 For the down-strea
+m eval-u-a-tion (Sec-
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `') on input line 494.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `') on input line 521.
+
+
+[4]
+
+[5 <./figs/fig1_coverage.pdf>]
+
+[6 <./figs/fig3_mondrian.pdf> <./figs/fig4_endtoend.pdf>]
+(./conformal-gating.bbl
+Underfull \hbox (badness 1931) in paragraph at lines 62--70
+[]\T1/stix/m/n/8 Bates, S., An-gelopou-los, A., Lei, L., Ma-lik, J., Jor-dan, M
+.I., 2021.
+
+[7]
+Underfull \hbox (badness 4279) in paragraph at lines 238--243
+[]\T1/stix/m/n/8 Qwen Team, 2024.  Qwen2.5 tech-ni-cal re-port.  arXiv preprint
+
+)
+
+[8] (./conformal-gating.aux) )
+(see the transcript file for additional information) </Users/arif/Library/texli
+ve/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi0900.600pk> </Users/arif
+/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0900.600pk
+> </Users/arif/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/
+ecss0900.600pk></Users/arif/Library/texmf/fonts/type1/public/inconsolata/Incons
+olata-zi4r.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/STIXGeneral-B
+old.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/STIXGeneral-Italic.p
+fb></Users/arif/Library/texmf/fonts/type1/public/stix/STIXGeneral-Regular.pfb><
+/Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathbb.pfb></Users/arif/
+Library/texmf/fonts/type1/public/stix/stix-mathcal.pfb></Users/arif/Library/tex
+mf/fonts/type1/public/stix/stix-mathex.pfb></Users/arif/Library/texmf/fonts/typ
+e1/public/stix/stix-mathit.pfb></Users/arif/Library/texmf/fonts/type1/public/st
+ix/stix-mathrm-bold.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/stix
+-mathrm.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathscr.pfb
+></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathsf.pfb></Users/ari
+f/Library/texmf/fonts/type1/public/stix/stix-mathtt.pfb>
+Output written on conformal-gating.pdf (9 pages, 322249 bytes).
+Transcript written on conformal-gating.log.

@@ -1,0 +1,86 @@
+# conformal-rag pipeline configuration.
+# Edit before running. The pipeline.py CLI reads this on every command.
+
+project:
+  slug: "conformal-rag"          # kebab-case; used as kernel/dataset prefix
+
+kaggle:
+  username: "mdariffaysalnayem"
+
+  # Datasets referenced by notebooks. The 'core' entry is created/updated by
+  # `pipeline.py upload-src`. Phase-result entries are created by
+  # `pipeline.py upload-results <phase>`. Add public dataset slugs as needed.
+  datasets:
+    core: "mdariffaysalnayem/conformal-rag-core"
+    # No public dataset wired in yet. When you add QA data (e.g. TriviaQA,
+    # PopQA, Natural Questions), register it here and reference it from a
+    # notebook's `datasets:` list, e.g.:
+    # raw_data: "someuser/triviaqa"
+    # Intermediate results, populated as phases complete:
+    # phase1_results: "mdariffaysalnayem/conformal-rag-phase1-results"
+    # phase2_results: "mdariffaysalnayem/conformal-rag-phase2-results"
+
+  # Optional extra files bundled into the core dataset alongside src/*.py.
+  # Useful for fixed inputs like train/val splits that all notebooks should see.
+  core_extras: []
+  # core_extras: ["results/splits_v1.json"]
+
+# Pipeline control
+pipeline:
+  phases:
+    phase1:
+      description: "Synthetic / smoke validation"
+      notebooks:
+        - id: "phase1a"
+          title: "First experiment"
+          gpu: false
+          timeout_hours: 3
+          datasets: []                # core is always included; list extras here
+          success_criteria:
+            - "experiment_complete == true"
+
+    phase2:
+      description: "Real LLM uncertainty signals on PopQA (closed-book)"
+      notebooks:
+        - id: "phase2-popqa"
+          title: "PopQA uncertainty signals (Qwen2.5-3B)"
+          gpu: true
+          timeout_hours: 9
+          datasets: []              # core only; PopQA pulled via HF (internet on)
+          success_criteria:
+            - "experiment_complete == true"
+            - "auroc_semantic_entropy > 0.6"
+        - id: "phase2-trivia"
+          title: "TriviaQA uncertainty signals (Qwen2.5-3B)"
+          gpu: true
+          timeout_hours: 9
+          datasets: []              # core only; TriviaQA pulled via HF (internet on)
+          success_criteria:
+            - "experiment_complete == true"
+
+    phase3:
+      description: "Generality check — Phi-3.5-mini on both datasets"
+      notebooks:
+        - id: "phase3-phi"
+          title: "Phi-3.5-mini on TriviaQA + PopQA"
+          gpu: true
+          timeout_hours: 9
+          datasets: []
+          success_criteria:
+            - "experiment_complete == true"
+
+    phase4:
+      description: "End-to-end RAG outcomes on PopQA (Qwen2.5-3B + Wikipedia)"
+      notebooks:
+        - id: "phase4-rag"
+          title: "RAG answers on PopQA for end-to-end gate evaluation"
+          gpu: true
+          timeout_hours: 9
+          datasets: []
+          success_criteria:
+            - "experiment_complete == true"
+            - "rag_accuracy > 0.20"
+
+  max_retries_per_notebook: 5
+  poll_interval_seconds: 120
+  auto_advance: false

@@ -1,0 +1,400 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./conformal-gating.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(./cas-sc.cls
+Document Class: cas-sc 2024/05/04, 2.4: Formatting class for CAS single column 
+articles
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/fleqn.clo)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amssymb.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+) (/Users/arif/Library/texmf/tex/latex/etoolbox/etoolbox.sty)
+(/Users/arif/Library/texmf/tex/latex/booktabs/booktabs.sty)
+(/Users/arif/Library/texmf/tex/latex/makecell/makecell.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/array.sty))
+(/Users/arif/Library/texmf/tex/latex/multirow/multirow.sty)
+(/Users/arif/Library/texmf/tex/latex/colortbl/colortbl.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/mathcolor.ltx)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/dcolumn.sty)
+(/Users/arif/Library/texmf/tex/latex/sttools/stfloats.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/xspace.sty)
+(/Users/arif/Library/texmf/tex/generic/xstring/xstring.sty
+(/Users/arif/Library/texmf/tex/generic/xstring/xstring.tex))
+(/Users/arif/Library/texmf/tex/latex/footmisc/footmisc.sty
+(/Users/arif/Library/texmf/tex/latex/footmisc/footmisc-2022-02-14.sty))
+(/Users/arif/Library/texmf/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/Users/arif/Library/texmf/tex/latex/xcolor/svgnam.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/dvipsnam.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
+sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/Users/arif/Library/texmf/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/gettitlestring/gettitlestr
+ing.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty)
+) (/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
+k.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/uniquecounter/uniquecounte
+r.sty))) (./cas-common.sty
+(/Users/arif/Library/texmf/tex/latex/moreverb/moreverb.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/verbatim.sty))
+(/Users/arif/Library/texmf/tex/latex/wrapfig/wrapfig.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/fontenc.sty)
+(/Users/arif/Library/texmf/tex/latex/stix/stix.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/textcomp.sty))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifvtex.sty)))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/natbib/natbib.sty)
+(/Users/arif/Library/texmf/tex/latex/stix/t1stix.fd) (./conformal-gating.aux)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stix.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stix.fd)
+(/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty (/usr/local/texlive/2025basic/texmf-dist/tex/latex/grfext/grfext.sty)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+)) (./conformal-gating.out) (./conformal-gating.out)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(/Users/arif/Library/texmf/tex/latex/stix/ts1stix.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixscr.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixex.fd)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixfrak.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixbb.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixcal.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixsf.fd)
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixtt.fd)
+[0{/Users/arif/Library/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdft
+ex.map}{/Users/arif/Library/texmf/fonts/enc/dvips/stix/stix-t1.enc}{/Users/arif
+/Library/texmf/fonts/enc/dvips/stix/stix-ts1.enc}]
+Overfull \hbox (117.0831pt too wide) detected at line 71
+[]
+(./conformal-gating.abs)
+
+Package hyperref Warning: Ignoring empty anchor on input line 71.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 71.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 71.
+
+
+Package natbib Warning: Citation `lewis2020rag' on page 1 undefined on input li
+ne 78.
+
+
+Package natbib Warning: Citation `gao2023ragsurvey' on page 1 undefined on inpu
+t line 78.
+
+
+Package natbib Warning: Citation `jiang2023flare' on page 1 undefined on input 
+line 83.
+
+
+Package natbib Warning: Citation `asai2024selfrag' on page 1 undefined on input
+ line 83.
+
+
+Package natbib Warning: Citation `jeong2024adaptiverag' on page 1 undefined on 
+input line 83.
+
+
+Package natbib Warning: Citation `jiang2023flare' on page 1 undefined on input 
+line 96.
+
+
+Package natbib Warning: Citation `asai2024selfrag' on page 1 undefined on input
+ line 96.
+
+
+Package natbib Warning: Citation `jeong2024adaptiverag' on page 1 undefined on 
+input line 97.
+
+
+Package natbib Warning: Citation `angelopoulos2024crc' on page 1 undefined on i
+nput line 108.
+
+
+Package natbib Warning: Citation `kumar2023conformalqa' on page 1 undefined on 
+input line 117.
+
+
+Package natbib Warning: Citation `quach2024conformallm' on page 1 undefined on 
+input line 117.
+
+
+[1 <./thumbnails/cas-email.jpeg>]
+
+Package natbib Warning: Citation `lewis2020rag' on page 2 undefined on input li
+ne 147.
+
+
+Package natbib Warning: Citation `gao2023ragsurvey' on page 2 undefined on inpu
+t line 149.
+
+
+Package natbib Warning: Citation `karpukhin2020dpr' on page 2 undefined on inpu
+t line 149.
+
+
+Package natbib Warning: Citation `yan2024crag' on page 2 undefined on input lin
+e 151.
+
+
+Package natbib Warning: Citation `jiang2023flare' on page 2 undefined on input 
+line 154.
+
+
+Package natbib Warning: Citation `asai2024selfrag' on page 2 undefined on input
+ line 156.
+
+
+Package natbib Warning: Citation `jeong2024adaptiverag' on page 2 undefined on 
+input line 158.
+
+
+Package natbib Warning: Citation `su2024dragin' on page 2 undefined on input li
+ne 160.
+
+
+Package natbib Warning: Citation `yan2024crag' on page 2 undefined on input lin
+e 162.
+
+
+Package natbib Warning: Citation `vovk2005algorithmic' on page 2 undefined on i
+nput line 179.
+
+
+Package natbib Warning: Citation `angelopoulos2023gentle' on page 2 undefined o
+n input line 181.
+
+
+Package natbib Warning: Citation `angelopoulos2024crc' on page 2 undefined on i
+nput line 183.
+
+
+Package natbib Warning: Citation `bates2021riskcontrolling' on page 2 undefined
+ on input line 186.
+
+
+Package natbib Warning: Citation `vovk2012conditional' on page 2 undefined on i
+nput line 189.
+
+
+Package natbib Warning: Citation `tibshirani2019covariate' on page 2 undefined 
+on input line 190.
+
+
+Package natbib Warning: Citation `kumar2023conformalqa' on page 2 undefined on 
+input line 197.
+
+
+Package natbib Warning: Citation `quach2024conformallm' on page 2 undefined on 
+input line 199.
+
+
+Package natbib Warning: Citation `li2024traq' on page 2 undefined on input line
+ 201.
+
+
+Package natbib Warning: Citation `ren2023knowno' on page 2 undefined on input l
+ine 204.
+
+
+Package natbib Warning: Citation `xiong2024llmuncertainty' on page 2 undefined 
+on input line 205.
+
+
+[2]
+
+Package natbib Warning: Citation `abbasiyadkori2024conformalabstention' on page
+ 3 undefined on input line 209.
+
+
+Package natbib Warning: Citation `kadavath2022know' on page 3 undefined on inpu
+t line 228.
+
+
+Package natbib Warning: Citation `guo2017calibration' on page 3 undefined on in
+put line 230.
+
+
+Package natbib Warning: Citation `xiong2024llmuncertainty' on page 3 undefined 
+on input line 230.
+
+
+Package natbib Warning: Citation `wang2023selfconsistency' on page 3 undefined 
+on input line 231.
+
+
+Package natbib Warning: Citation `kuhn2023semantic' on page 3 undefined on inpu
+t line 232.
+
+
+Package natbib Warning: Citation `farquhar2024detecting' on page 3 undefined on
+ input line 234.
+
+
+Package natbib Warning: Citation `manakul2023selfcheckgpt' on page 3 undefined 
+on input line 236.
+
+
+Package natbib Warning: Citation `ji2023hallucination' on page 3 undefined on i
+nput line 237.
+
+
+Package natbib Warning: Citation `geifman2017selective' on page 3 undefined on 
+input line 245.
+
+
+Package natbib Warning: Citation `geifman2017selective' on page 3 undefined on 
+input line 252.
+
+
+Overfull \hbox (64.32178pt too wide) in paragraph at lines 259--264
+\T1/stix/m/n/10 swers $\LS1/stix/m/it/10 x$ \T1/stix/m/n/10 from para-met-ric m
+em-ory (\T1/stix/m/sc/10 skip\T1/stix/m/n/10 ) or with re-trieved ev-i-dence (\
+T1/stix/m/sc/10 retrieve\T1/stix/m/n/10 ). Let $\LS1/stix/m/it/10 w\LS1/stix/m/
+n/10 .\LS1/stix/m/it/10 x\LS1/stix/m/n/10 / = \LS1/stix/b/n/10 1\LS1/stix/m/n/1
+0 [\LS1/stix/m/it/10 M[]x[]\LS1/stix/m/n/10 ]$\T1/stix/m/n/10 .
+
+Package natbib Warning: Citation `geifman2017selective' on page 3 undefined on 
+input line 277.
+
+
+Package natbib Warning: Citation `kadavath2022know' on page 3 undefined on inpu
+t line 285.
+
+
+Package natbib Warning: Citation `kuhn2023semantic' on page 3 undefined on inpu
+t line 286.
+
+
+Package natbib Warning: Citation `wang2023selfconsistency' on page 3 undefined 
+on input line 288.
+
+
+[3]
+
+Package natbib Warning: Citation `angelopoulos2024crc' on page 4 undefined on i
+nput line 312.
+
+
+Package natbib Warning: Citation `qwen2025technical' on page 4 undefined on inp
+ut line 350.
+
+
+Package natbib Warning: Citation `abdin2024phi3' on page 4 undefined on input l
+ine 351.
+
+
+Package natbib Warning: Citation `mallen2023popqa' on page 4 undefined on input
+ line 352.
+
+
+Package natbib Warning: Citation `joshi2017triviaqa' on page 4 undefined on inp
+ut line 354.
+
+
+[4]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `') on input line 393.
+
+
+[5]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `') on input line 517.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `') on input line 552.
+
+
+[6]
+
+Package natbib Warning: Citation `bates2021riskcontrolling' on page 7 undefined
+ on input line 581.
+
+
+Package natbib Warning: Citation `kuhn2023semantic' on page 7 undefined on inpu
+t line 583.
+
+No file conformal-gating.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+
+[7]
+[8 <./figs/fig1_coverage.pdf> <./figs/fig3_mondrian.pdf>]
+[9 <./figs/fig4_endtoend.pdf>] (./conformal-gating.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information) </Users/arif/Library/texli
+ve/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsi0900.600pk> </Users/arif
+/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx0900.600pk
+> </Users/arif/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec/
+ectt1000.600pk> </Users/arif/Library/texlive/2025basic/texmf-var/fonts/pk/ljfou
+r/jknappen/ec/ecss0900.600pk></Users/arif/Library/texmf/fonts/type1/public/stix
+/STIXGeneral-Bold.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/STIXGe
+neral-Italic.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/STIXGeneral
+-Regular.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathbb.pfb
+></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathcal.pfb></Users/ar
+if/Library/texmf/fonts/type1/public/stix/stix-mathex.pfb></Users/arif/Library/t
+exmf/fonts/type1/public/stix/stix-mathit.pfb></Users/arif/Library/texmf/fonts/t
+ype1/public/stix/stix-mathrm-bold.pfb></Users/arif/Library/texmf/fonts/type1/pu
+blic/stix/stix-mathrm.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/st
+ix-mathscr.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathsf.p
+fb></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathtt.pfb>
+Output written on conformal-gating.pdf (10 pages, 301229 bytes).
+Transcript written on conformal-gating.log.

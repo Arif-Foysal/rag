@@ -1,0 +1,1064 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.24)  8 JUN 2026 14:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**conformal-gating
+(./conformal-gating.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(./cas-dc.cls
+Document Class: cas-dc 2024/05/04, 2.4: Formatting class for CAS double column 
+articles
+\c@blind=\count196
+\@bls=\dimen141
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip49
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+\bibindent=\dimen142
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen145
+))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count276
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip17
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks19
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks20
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks21
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.d
+ef
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box54
+))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+) (/Users/arif/Library/texmf/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count284
+)
+(/Users/arif/Library/texmf/tex/latex/preprint/balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen154
+)
+(/Users/arif/Library/texmf/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen155
+\lightrulewidth=\dimen156
+\cmidrulewidth=\dimen157
+\belowrulesep=\dimen158
+\belowbottomsep=\dimen159
+\aboverulesep=\dimen160
+\abovetopsep=\dimen161
+\cmidrulesep=\dimen162
+\cmidrulekern=\dimen163
+\defaultaddspace=\dimen164
+\@cmidla=\count285
+\@cmidlb=\count286
+\@aboverulesep=\dimen165
+\@belowrulesep=\dimen166
+\@thisruleclass=\count287
+\@lastruleclass=\count288
+\@thisrulewidth=\dimen167
+)
+(/Users/arif/Library/texmf/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen168
+\ar@mcellbox=\box55
+\extrarowheight=\dimen169
+\NC@list=\toks23
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box56
+)
+\rotheadsize=\dimen170
+\c@nlinenum=\count289
+\TeXr@lab=\toks24
+)
+(/Users/arif/Library/texmf/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count290
+\multirow@dima=\skip58
+\bigstrutjot=\dimen171
+)
+(/Users/arif/Library/texmf/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+\everycr=\toks25
+\minrowclearance=\skip59
+\rownum=\count291
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
+)
+(/Users/arif/Library/texmf/tex/latex/sttools/stfloats.sty
+Package: stfloats 2025/06/18 v3.4 Improve float mechanism and baselineskip sett
+ings
+\@dblbotnum=\count292
+\c@dblbotnumber=\count293
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/Users/arif/Library/texmf/tex/generic/xstring/xstring.sty
+(/Users/arif/Library/texmf/tex/generic/xstring/xstring.tex
+\xs_counta=\count294
+\xs_countb=\count295
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+(/Users/arif/Library/texmf/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
+
+(/Users/arif/Library/texmf/tex/latex/footmisc/footmisc-2022-02-14.sty
+Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
+\FN@temptoken=\toks26
+\footnotemargin=\dimen172
+\@outputbox@depth=\dimen173
+Package footmisc Info: Declaring symbol style bringhurst on input line 699.
+Package footmisc Info: Declaring symbol style chicago on input line 707.
+Package footmisc Info: Declaring symbol style wiley on input line 716.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 727.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 747.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 768
+.
+))
+(/Users/arif/Library/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+LaTeX Info: Redefining \color on input line 762.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/Users/arif/Library/texmf/tex/latex/xcolor/svgnam.def
+File: svgnam.def 2024/09/29 v3.02 Predefined colors according to SVG 1.1 (UK)
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.
+sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/Users/arif/Library/texmf/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/gettitlestring/gettitlestr
+ing.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count296
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen174
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count300
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen175
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen176
+\Fld@charsize=\dimen177
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count302
+\c@Item=\count303
+\c@Hfootnote=\count304
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/rerunfilecheck/rerunfilechec
+k.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/uniquecounter/uniquecounte
+r.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip60
+) (./cas-common.sty
+\l_stm_title_before_dim=\dimen178
+\l_stm_title_after_dim=\dimen179
+\g_ead_int=\count307
+\g_uad_int=\count308
+\@eadauthor=\toks27
+\g_stm_tnote_int=\count309
+\g_stm_fnote_int=\count310
+\g_stm_cor_int=\count311
+\g_stm_au_int=\count312
+\g_stm_aau_int=\count313
+\l_autype_int=\count314
+\l_stm_augroup_before_dim=\dimen180
+\l_stm_augroup_after_dim=\dimen181
+\l_stm_augroup_lskip_tl=\dimen182
+\l_stm_augroup_rskip_tl=\dimen183
+\g_stm_aff_int=\count315
+\g_stm_aff_ext_int=\count316
+\g_stm_aff_int_int=\count317
+\g_stm_fn_aff_ext_int=\count318
+\g_stm_fn_aff_int_int=\count319
+\l_stm_aff_before_dim=\dimen184
+\l_stm_aff_after_dim=\dimen185
+\l_stm_aff_lskip_dim=\dimen186
+\l_stm_aff_rskip_dim=\dimen187
+\g_stm_augr_int=\count320
+\g_stm_aaugr_int=\count321
+
+(/Users/arif/Library/texmf/tex/latex/moreverb/moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks28
+\verbatim@line=\toks29
+\verbatim@in@stream=\read2
+)
+\tab@position=\count322
+\tab@size=\count323
+\listing@line=\count324
+)
+\g_stm_abs_box=\box57
+\casgrabsbox=\box58
+\casauhlbox=\box59
+\g_stm_key_box=\box60
+\g_stm_jtype_int=\count325
+\g_stm_blind_int=\count326
+\c@au=\count327
+\c@cnote=\count328
+\c@tnote=\count329
+\c@fnote=\count330
+\c@aff=\count331
+\g_stm_notes_box=\box61
+\g_stm_front_box=\box62
+\paraindent=\dimen188
+\subparaindent=\dimen189
+\FullWidth=\dimen190
+\l_tbl_width_dim=\dimen191
+\l_tbl_abovecap_skip=\skip61
+\l_tbl_belowcap_skip=\skip62
+\l_tbl_abovetbl_skip=\skip63
+\l_tbl_belowtbl_skip=\skip64
+\l_fig_width_dim=\dimen192
+\cascaptionbox=\box63
+\l_fig_abovecap_skip=\skip65
+\l_fig_belowcap_skip=\skip66
+\l_fig_abovefig_skip=\skip67
+\l_fig_belowfig_skip=\skip68
+
+(/Users/arif/Library/texmf/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen193
+\WF@size=\dimen194
+\c@WF@wrappedlines=\count332
+\WF@box=\box64
+\WF@everypar=\toks30
+Package: wrapfig 2003/01/31  v 3.6
+)
+\l_wrap_figwidth_dim=\dimen195
+\l_wrap_fighspace_dim=\dimen196
+\l_wrap_figvspace_dim=\dimen197
+\l_wrap_fighcorr_dim=\dimen198
+\l_wrap_figvcorr_dim=\dimen199
+\l_above_bio_dim=\dimen256
+\l_wrap_figlcorr_int=\count333
+\l_wrap_figlines_int=\count334
+\l_bio_text_box=\box65
+\c@ca_biography_ctr=\count335
+\l_ca_temp_inta=\count336
+\leftMargin=\dimen257
+\@enLab=\toks31
+\@sep=\skip69
+\@@sep=\skip70
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/Users/arif/Library/texmf/tex/latex/stix/stix.sty
+Package: stix 2018/04/17 v1.1.3-latex STIX fonts support package
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
+)
+Now handling font encoding LS1 ...
+... no UTF-8 mapping file for font encoding LS1
+Now handling font encoding LS2 ...
+... no UTF-8 mapping file for font encoding LS2
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 76.
+LaTeX Font Info:    Encoding `OML' has changed to `LS1' for symbol font
+(Font)              `letters' in the math version `normal' on input line 76.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> LS1/stix/m/it on input line 76.
+LaTeX Font Info:    Encoding `OML' has changed to `LS1' for symbol font
+(Font)              `letters' in the math version `bold' on input line 76.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> LS1/stix/m/it on input line 76.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 77.
+LaTeX Font Info:    Encoding `OT1' has changed to `LS1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> LS1/stix/m/n on input line 77.
+LaTeX Font Info:    Encoding `OT1' has changed to `LS1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> LS1/stix/m/n on input line 77.
+\symbold-operators=\mathgroup6
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 79.
+LaTeX Font Info:    Encoding `OMS' has changed to `LS1' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 79.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LS1/stixscr/m/n on input line 79.
+LaTeX Font Info:    Encoding `OMS' has changed to `LS1' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 79.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LS1/stixscr/m/n on input line 79.
+\symsymbols2=\mathgroup7
+\symsymbols3=\mathgroup8
+\symsymbols4=\mathgroup9
+\symintegrals=\mathgroup10
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 84.
+LaTeX Font Info:    Encoding `OMX' has changed to `LS2' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 8
+4.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LS2/stixex/m/n on input line 84.
+LaTeX Font Info:    Encoding `OMX' has changed to `LS2' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 84.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LS2/stixex/m/n on input line 84.
+\symarrows1=\mathgroup11
+\symarrows2=\mathgroup12
+\symarrows3=\mathgroup13
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  LS1/stix/m/it --> LS1/stix/b/it on input line 88.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  LS1/stix/m/n --> LS1/stix/b/n on input line 89.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LS1/stixscr/m/n --> LS1/stixscr/b/n on input line 90.
+LaTeX Font Info:    Overwriting symbol font `symbols2' in version `bold'
+(Font)                  LS1/stixfrak/m/n --> LS1/stixfrak/b/n on input line 91.
+
+LaTeX Font Info:    Overwriting symbol font `symbols3' in version `bold'
+(Font)                  LS1/stixbb/m/n --> LS1/stixbb/b/n on input line 92.
+LaTeX Font Info:    Overwriting symbol font `symbols4' in version `bold'
+(Font)                  LS1/stixbb/m/it --> LS1/stixbb/b/it on input line 93.
+LaTeX Font Info:    Overwriting symbol font `integrals' in version `bold'
+(Font)                  LS2/stixcal/m/n --> LS2/stixcal/b/n on input line 94.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LS2/stixex/m/n --> LS2/stixex/b/n on input line 95.
+LaTeX Font Info:    Overwriting symbol font `arrows1' in version `bold'
+(Font)                  LS1/stixsf/m/n --> LS1/stixsf/b/n on input line 96.
+LaTeX Font Info:    Overwriting symbol font `arrows2' in version `bold'
+(Font)                  LS1/stixsf/m/it --> LS1/stixsf/b/it on input line 97.
+LaTeX Font Info:    Overwriting symbol font `arrows3' in version `bold'
+(Font)                  LS2/stixtt/m/n --> LS2/stixtt/b/n on input line 98.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 99.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 102.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 106.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 108.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 109.
+LaTeX Info: Redefining \yen on input line 456.
+LaTeX Info: Redefining \circledR on input line 458.
+LaTeX Info: Redefining \checkmark on input line 460.
+LaTeX Info: Redefining \maltese on input line 461.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 698.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 699.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 700.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 701.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 702.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 703.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 704.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 705.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 707.
+LaTeX Font Info:    Redeclaring math accent \check on input line 708.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 716.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 728.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 729.
+LaTeX Info: Redefining \vdots on input line 1518.
+LaTeX Info: Redefining \cdots on input line 1522.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 1978.
+LaTeX Info: Redefining \not on input line 2144.
+)
+(/Users/arif/Library/texmf/tex/latex/inconsolata/inconsolata.sty
+Package: inconsolata 2019/05/17 v1.12
+
+`inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
+(/Users/arif/Library/texmf/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
+
+(/Users/arif/Library/texmf/tex/generic/xkeyval/xkeyval.tex
+(/Users/arif/Library/texmf/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks32
+\XKV@tempa@toks=\toks33
+\XKV@tempb@toks=\toks34
+)
+\XKV@depth=\count337
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\zifour@ocount=\count338
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count339
+\Gm@cntv=\count340
+\c@Gm@tempcnt=\count341
+\Gm@bindingoffset=\dimen258
+\Gm@wd@mp=\dimen259
+\Gm@odd@mp=\dimen260
+\Gm@even@mp=\dimen261
+\Gm@layoutwidth=\dimen262
+\Gm@layoutheight=\dimen263
+\Gm@layouthoffset=\dimen264
+\Gm@layoutvoffset=\dimen265
+\Gm@dimlist=\toks35
+))
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip71
+\bibsep=\skip72
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count342
+)
+LaTeX Font Info:    Trying to load font information for T1+stix on input line 1
+0.
+
+(/Users/arif/Library/texmf/tex/latex/stix/t1stix.fd
+File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
+) (./conformal-gating.aux)
+\openout1 = `conformal-gating.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for LS1+stix on input line 
+10.
+
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stix.fd
+File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
+)
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 10.
+LaTeX Font Info:    Trying to load font information for LS2+stix on input line 
+10.
+
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stix.fd
+File: ls2stix.fd 2015/04/17 v1.1.2-latex STIX LS2 font definitions
+)
+LaTeX Font Info:    ... okay on input line 10.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count343
+\scratchdimen=\dimen266
+\scratchbox=\box66
+\nofMPsegments=\count344
+\nofMParguments=\count345
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count346
+\MPscratchDim=\dimen267
+\MPnumerator=\count347
+\makeMPintoPDFobject=\count348
+\everyMPtoPDFconversion=\toks37
+)
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.s
+ty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/local/texlive/2025basic/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Command `\dddot' is already robust on input line 10.
+LaTeX Info: Command `\ddddot' is already robust on input line 10.
+Package hyperref Info: Link coloring ON on input line 10.
+ (./conformal-gating.out) (./conformal-gating.out)
+\@outlinefile=\write3
+\openout3 = `conformal-gating.out'.
+
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(51.4995pt, 494.50888pt, 51.4995pt)
+* v-part:(T,H,B)=(55.48286pt, 689.4103pt, 51.784pt)
+* \paperwidth=597.50787pt
+* \paperheight=796.67715pt
+* \textwidth=494.50888pt
+* \textheight=689.4103pt
+* \oddsidemargin=-20.7705pt
+* \evensidemargin=-20.7705pt
+* \topmargin=-40.78712pt
+* \headheight=12.0pt
+* \headsep=12.0pt
+* \topskip=10.0pt
+* \footskip=12.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=18.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\verbatim@out=\write4
+\openout4 = `conformal-gating.abs'.
+
+LaTeX Font Info:    Trying to load font information for TS1+stix on input line 
+58.
+(/Users/arif/Library/texmf/tex/latex/stix/ts1stix.fd
+File: ts1stix.fd 2015/04/17 v1.1.2-latex STIX TS1 font definitions
+)
+
+[0
+
+{/Users/arif/Library/texlive/2025basic/texmf-var/fonts/map/pdftex/updmap/pdftex
+.map}{/Users/arif/Library/texmf/fonts/enc/dvips/stix/stix-t1.enc}{/Users/arif/L
+ibrary/texmf/fonts/enc/dvips/stix/stix-ts1.enc}]
+LaTeX Font Info:    Trying to load font information for LS1+stixscr on input li
+ne 70.
+
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixscr.fd
+File: ls1stixscr.fd 2015/04/17 v1.1.2-latex STIX script LS1 font definitions
+)
+LaTeX Font Info:    Trying to load font information for LS2+stixex on input lin
+e 70.
+
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixex.fd
+File: ls2stixex.fd 2015/04/17 v1.1.2-latex STIX extentions LS2 font definitions
+
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
+
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
+
+
+(/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for LS1+stixfrak on input l
+ine 70.
+
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixfrak.fd
+File: ls1stixfrak.fd 2015/04/17 v1.1.2-latex STIX fraktur LS1 font definitions
+)
+LaTeX Font Info:    Trying to load font information for LS1+stixbb on input lin
+e 70.
+
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixbb.fd
+File: ls1stixbb.fd 2015/04/17 v1.1.2-latex STIX blackboard LS1 font definitions
+
+)
+LaTeX Font Info:    Trying to load font information for LS2+stixcal on input li
+ne 70.
+
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixcal.fd
+File: ls2stixcal.fd 2015/04/17 v1.1.2-latex STIX calligraphic LS2 font definiti
+ons
+)
+LaTeX Font Info:    Trying to load font information for LS1+stixsf on input lin
+e 70.
+
+(/Users/arif/Library/texmf/tex/latex/stix/ls1stixsf.fd
+File: ls1stixsf.fd 2015/04/17 v1.1.2-latex STIX sans-serif LS1 font definitions
+
+)
+LaTeX Font Info:    Trying to load font information for LS2+stixtt on input lin
+e 70.
+
+(/Users/arif/Library/texmf/tex/latex/stix/ls2stixtt.fd
+File: ls2stixtt.fd 2015/04/17 v1.1.2-latex STIX typewriter LS2 font definitions
+
+)
+Overfull \hbox (123.62721pt too wide) detected at line 70
+[]
+ []
+
+(./conformal-gating.abs)
+
+Package hyperref Warning: Ignoring empty anchor on input line 70.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 70.
+
+<thumbnails/cas-email.jpeg, id=12, 225.84375pt x 225.84375pt>
+File: thumbnails/cas-email.jpeg Graphic file (type jpg)
+<use thumbnails/cas-email.jpeg>
+Package pdftex.def Info: thumbnails/cas-email.jpeg  used on input line 70.
+(pdftex.def)             Requested size: 7.99838pt x 8.0pt.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 70
+.
+(/Users/arif/Library/texmf/tex/latex/inconsolata/t1zi4.fd
+File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
+)
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 6.80005pt on input line 70.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 70.
+
+
+
+<figs/fig_concept.pdf, id=37, 557.38237pt x 172.6169pt>
+File: figs/fig_concept.pdf Graphic file (type pdf)
+<use figs/fig_concept.pdf>
+Package pdftex.def Info: figs/fig_concept.pdf  used on input line 123.
+(pdftex.def)             Requested size: 494.50888pt x 153.14653pt.
+
+Underfull \hbox (badness 1242) in paragraph at lines 138--143
+\T1/stix/m/n/10 selective-prediction de-ci-sion un-der asym-met-ric cost,
+ []
+
+
+Overfull \hbox (2.55472pt too wide) in paragraph at lines 143--148
+[]\T1/stix/m/n/10 We show on real LLM be-hav-ior that the re-al-ized harmful-
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 143--148
+\T1/stix/m/n/10 threshold prac-tice over-shoots the hal-lu-ci-na-tion bud-
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 143--148
+\T1/stix/m/n/10 get by 34--58% un-der dis-tri-bu-tion shift, which per-
+ []
+
+
+Overfull \hbox (3.32552pt too wide) in paragraph at lines 143--148
+\T1/stix/m/n/10 distribution con-for-mal cal-i-bra-tion cor-rects (Sec-tions []
+[]5.1[][]--
+ []
+
+
+
+[1
+
+{/Users/arif/Library/texmf/fonts/enc/dvips/inconsolata/i4-t1-0.enc} <./thumbnai
+ls/cas-email.jpeg>]
+Overfull \hbox (7.91638pt too wide) in paragraph at lines 152--156
+\T1/stix/m/n/10 cal-i-bra-tion is needed, only un-der label-shift-given-feature
+s
+ []
+
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 173.
+
+
+
+
+[2 <./figs/fig_concept.pdf>]
+Overfull \hbox (1.59045pt too wide) in paragraph at lines 212--223
+[]\T1/stix/b/n/10 Conformalizing the an-swer. \T1/stix/m/n/10 The ma-jor-ity of
+ conformal-
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 234--239
+\T1/stix/m/n/10 de-ci-sion; we con-trol the pre-generation in-put de-ci-sion:
+ []
+
+
+Overfull \hbox (4.40555pt too wide) in paragraph at lines 261--269
+[]\T1/stix/m/n/10 Selective pre-dic-tion ([][]Geif-man and El-Yaniv[][], [][]20
+17[][]) frames
+ []
+
+
+
+
+
+[3]
+
+
+Overfull \hbox (2.65244pt too wide) in paragraph at lines 394--399
+ []\T1/stix/m/it/11 End-to-end re-triever.[] \T1/stix/m/n/10 For the down-strea
+m eval-u-a-tion (Sec-
+ []
+
+<figs/fig1_coverage.pdf, id=260, 500.28265pt x 197.74126pt>
+File: figs/fig1_coverage.pdf Graphic file (type pdf)
+<use figs/fig1_coverage.pdf>
+Package pdftex.def Info: figs/fig1_coverage.pdf  used on input line 423.
+(pdftex.def)             Requested size: 494.50888pt x 195.45668pt.
+
+LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <9> not available
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 454.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[4]
+
+<figs/fig3_mondrian.pdf, id=288, 248.29283pt x 197.0572pt>
+File: figs/fig3_mondrian.pdf Graphic file (type pdf)
+<use figs/fig3_mondrian.pdf>
+Package pdftex.def Info: figs/fig3_mondrian.pdf  used on input line 533.
+(pdftex.def)             Requested size: 242.31206pt x 192.3179pt.
+<figs/fig4_endtoend.pdf, id=289, 248.59665pt x 196.91525pt>
+File: figs/fig4_endtoend.pdf Graphic file (type pdf)
+<use figs/fig4_endtoend.pdf>
+Package pdftex.def Info: figs/fig4_endtoend.pdf  used on input line 537.
+(pdftex.def)             Requested size: 242.31206pt x 191.93599pt.
+
+
+[5 <./figs/fig1_coverage.pdf>]
+
+
+
+[6 <./figs/fig3_mondrian.pdf> <./figs/fig4_endtoend.pdf>]
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 665--669
+[]\T1/stix/m/n/10 The ex-per-i-ments use the pub-licly avail-able PopQA
+ []
+
+
+
+[7] (./conformal-gating.bbl
+Underfull \hbox (badness 1931) in paragraph at lines 62--70
+[]\T1/stix/m/n/8 Bates, S., An-gelopou-los, A., Lei, L., Ma-lik, J., Jor-dan, M
+.I., 2021.
+ []
+
+
+
+
+Underfull \hbox (badness 4279) in paragraph at lines 238--243
+[]\T1/stix/m/n/8 Qwen Team, 2024.  Qwen2.5 tech-ni-cal re-port.  arXiv preprint
+
+ []
+
+)
+
+[8] (./conformal-gating.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `conformal-gating.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 17081 strings out of 474662
+ 259095 string characters out of 5751109
+ 668640 words of memory out of 5000000
+ 39735 multiletter control sequences out of 15000+600000
+ 666209 words of font info for 163 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 90i,10n,93p,751b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </Users/arif/Library/texlive/2025basic/texmf-var/fonts/pk/ljfour/jknappen/ec
+/eccc0900.600pk> </Users/arif/Library/texlive/2025basic/texmf-var/fonts/pk/ljfo
+ur/jknappen/ec/ecsx0900.600pk> </Users/arif/Library/texlive/2025basic/texmf-var
+/fonts/pk/ljfour/jknappen/ec/ecss0900.600pk></Users/arif/Library/texmf/fonts/ty
+pe1/public/inconsolata/Inconsolata-zi4r.pfb></Users/arif/Library/texmf/fonts/ty
+pe1/public/stix/STIXGeneral-Bold.pfb></Users/arif/Library/texmf/fonts/type1/pub
+lic/stix/STIXGeneral-Italic.pfb></Users/arif/Library/texmf/fonts/type1/public/s
+tix/STIXGeneral-Regular.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/
+stix-mathbb.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathcal
+.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/stix-mathex.pfb></Users
+/arif/Library/texmf/fonts/type1/public/stix/stix-mathit.pfb></Users/arif/Librar
+y/texmf/fonts/type1/public/stix/stix-mathrm-bold.pfb></Users/arif/Library/texmf
+/fonts/type1/public/stix/stix-mathrm.pfb></Users/arif/Library/texmf/fonts/type1
+/public/stix/stix-mathscr.pfb></Users/arif/Library/texmf/fonts/type1/public/sti
+x/stix-mathsf.pfb></Users/arif/Library/texmf/fonts/type1/public/stix/stix-matht
+t.pfb>
+Output written on conformal-gating.pdf (9 pages, 368221 bytes).
+PDF statistics:
+ 706 PDF objects out of 1000 (max. 8388607)
+ 403 compressed objects within 5 object streams
+ 93 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

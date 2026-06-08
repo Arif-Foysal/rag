@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pipeline_runs.json
+_kaggle_push/
+_kaggle_dataset_*/
+results/
+notebooks/

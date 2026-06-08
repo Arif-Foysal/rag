@@ -1,0 +1,312 @@
+\begin{thebibliography}{32}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Abbasi~Yadkori et~al.(2024)Abbasi~Yadkori, Dud{\'i}k, Schapire and
+  Lazaridou}]{abbasiyadkori2024conformalabstention}
+\bibinfo{author}{Abbasi~Yadkori, Y.}, \bibinfo{author}{Dud{\'i}k, M.},
+  \bibinfo{author}{Schapire, R.E.}, \bibinfo{author}{Lazaridou, A.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Mitigating {LLM} hallucinations via conformal
+  abstention}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2405.01563} .
+%Type = Article
+\bibitem[{Abdin et~al.(2024)Abdin, Aneja, Awadalla, Awadallah, Awan, Bach,
+  Bahree, Bakhtiari, Behl et~al.}]{abdin2024phi3}
+\bibinfo{author}{Abdin, M.}, \bibinfo{author}{Aneja, J.},
+  \bibinfo{author}{Awadalla, H.}, \bibinfo{author}{Awadallah, A.},
+  \bibinfo{author}{Awan, A.A.}, \bibinfo{author}{Bach, N.},
+  \bibinfo{author}{Bahree, A.}, \bibinfo{author}{Bakhtiari, A.},
+  \bibinfo{author}{Behl, H.}, et~al., \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Phi-3 technical report: A highly capable language
+  model locally on your phone}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2404.14219} .
+%Type = Article
+\bibitem[{Angelopoulos and Bates(2023)}]{angelopoulos2023gentle}
+\bibinfo{author}{Angelopoulos, A.N.}, \bibinfo{author}{Bates, S.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Conformal prediction: A gentle introduction}.
+\newblock \bibinfo{journal}{Foundations and Trends in Machine Learning}
+  \bibinfo{volume}{16}, \bibinfo{pages}{494--591}.
+%Type = Inproceedings
+\bibitem[{Angelopoulos et~al.(2024)Angelopoulos, Bates, Fisch, Lei and
+  Schuster}]{angelopoulos2024crc}
+\bibinfo{author}{Angelopoulos, A.N.}, \bibinfo{author}{Bates, S.},
+  \bibinfo{author}{Fisch, A.}, \bibinfo{author}{Lei, L.},
+  \bibinfo{author}{Schuster, T.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Conformal risk control}, in:
+  \bibinfo{booktitle}{International Conference on Learning Representations
+  (ICLR)}.
+%Type = Inproceedings
+\bibitem[{Asai et~al.(2024)Asai, Wu, Wang, Sil and
+  Hajishirzi}]{asai2024selfrag}
+\bibinfo{author}{Asai, A.}, \bibinfo{author}{Wu, Z.}, \bibinfo{author}{Wang,
+  Y.}, \bibinfo{author}{Sil, A.}, \bibinfo{author}{Hajishirzi, H.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Self-{RAG}: Learning to retrieve, generate, and
+  critique through self-reflection}, in: \bibinfo{booktitle}{International
+  Conference on Learning Representations (ICLR)}.
+%Type = Article
+\bibitem[{Bates et~al.(2021)Bates, Angelopoulos, Lei, Malik and
+  Jordan}]{bates2021riskcontrolling}
+\bibinfo{author}{Bates, S.}, \bibinfo{author}{Angelopoulos, A.},
+  \bibinfo{author}{Lei, L.}, \bibinfo{author}{Malik, J.},
+  \bibinfo{author}{Jordan, M.I.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Distribution-free, risk-controlling prediction sets}.
+\newblock \bibinfo{journal}{Journal of the ACM} \bibinfo{volume}{68},
+  \bibinfo{pages}{1--34}.
+%Type = Article
+\bibitem[{Farquhar et~al.(2024)Farquhar, Kossen, Kuhn and
+  Gal}]{farquhar2024detecting}
+\bibinfo{author}{Farquhar, S.}, \bibinfo{author}{Kossen, J.},
+  \bibinfo{author}{Kuhn, L.}, \bibinfo{author}{Gal, Y.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Detecting hallucinations in large language models
+  using semantic entropy}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{630},
+  \bibinfo{pages}{625--630}.
+%Type = Article
+\bibitem[{Gao et~al.(2023)Gao, Xiong, Gao, Jia, Pan, Bi, Dai, Sun and
+  Wang}]{gao2023ragsurvey}
+\bibinfo{author}{Gao, Y.}, \bibinfo{author}{Xiong, Y.}, \bibinfo{author}{Gao,
+  X.}, \bibinfo{author}{Jia, K.}, \bibinfo{author}{Pan, J.},
+  \bibinfo{author}{Bi, Y.}, \bibinfo{author}{Dai, Y.}, \bibinfo{author}{Sun,
+  J.}, \bibinfo{author}{Wang, H.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Retrieval-augmented generation for large language
+  models: A survey}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2312.10997} .
+%Type = Inproceedings
+\bibitem[{Geifman and El-Yaniv(2017)}]{geifman2017selective}
+\bibinfo{author}{Geifman, Y.}, \bibinfo{author}{El-Yaniv, R.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Selective classification for deep neural networks},
+  in: \bibinfo{booktitle}{Advances in Neural Information Processing Systems
+  (NeurIPS)}.
+%Type = Inproceedings
+\bibitem[{Guo et~al.(2017)Guo, Pleiss, Sun and Weinberger}]{guo2017calibration}
+\bibinfo{author}{Guo, C.}, \bibinfo{author}{Pleiss, G.}, \bibinfo{author}{Sun,
+  Y.}, \bibinfo{author}{Weinberger, K.Q.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{On calibration of modern neural networks}, in:
+  \bibinfo{booktitle}{International Conference on Machine Learning (ICML)}, pp.
+  \bibinfo{pages}{1321--1330}.
+%Type = Inproceedings
+\bibitem[{Jeong et~al.(2024)Jeong, Baek, Cho, Hwang and
+  Park}]{jeong2024adaptiverag}
+\bibinfo{author}{Jeong, S.}, \bibinfo{author}{Baek, J.}, \bibinfo{author}{Cho,
+  S.}, \bibinfo{author}{Hwang, S.J.}, \bibinfo{author}{Park, J.C.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Adaptive-{RAG}: Learning to adapt retrieval-augmented
+  large language models through question complexity}, in:
+  \bibinfo{booktitle}{Proceedings of the 2024 Conference of the North American
+  Chapter of the Association for Computational Linguistics (NAACL)}, pp.
+  \bibinfo{pages}{7036--7050}.
+%Type = Article
+\bibitem[{Ji et~al.(2023)Ji, Lee, Frieske, Yu, Su, Xu, Ishii, Bang, Madotto and
+  Fung}]{ji2023hallucination}
+\bibinfo{author}{Ji, Z.}, \bibinfo{author}{Lee, N.}, \bibinfo{author}{Frieske,
+  R.}, \bibinfo{author}{Yu, T.}, \bibinfo{author}{Su, D.}, \bibinfo{author}{Xu,
+  Y.}, \bibinfo{author}{Ishii, E.}, \bibinfo{author}{Bang, Y.J.},
+  \bibinfo{author}{Madotto, A.}, \bibinfo{author}{Fung, P.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Survey of hallucination in natural language
+  generation}.
+\newblock \bibinfo{journal}{ACM Computing Surveys} \bibinfo{volume}{55},
+  \bibinfo{pages}{1--38}.
+%Type = Inproceedings
+\bibitem[{Jiang et~al.(2023)Jiang, Xu, Gao, Sun, Liu, Dwivedi-Yu, Yang, Callan
+  and Neubig}]{jiang2023flare}
+\bibinfo{author}{Jiang, Z.}, \bibinfo{author}{Xu, F.F.}, \bibinfo{author}{Gao,
+  L.}, \bibinfo{author}{Sun, Z.}, \bibinfo{author}{Liu, Q.},
+  \bibinfo{author}{Dwivedi-Yu, J.}, \bibinfo{author}{Yang, Y.},
+  \bibinfo{author}{Callan, J.}, \bibinfo{author}{Neubig, G.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Active retrieval augmented generation}, in:
+  \bibinfo{booktitle}{Proceedings of the 2023 Conference on Empirical Methods
+  in Natural Language Processing (EMNLP)}, pp. \bibinfo{pages}{7969--7992}.
+%Type = Inproceedings
+\bibitem[{Joshi et~al.(2017)Joshi, Choi, Weld and
+  Zettlemoyer}]{joshi2017triviaqa}
+\bibinfo{author}{Joshi, M.}, \bibinfo{author}{Choi, E.}, \bibinfo{author}{Weld,
+  D.S.}, \bibinfo{author}{Zettlemoyer, L.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{TriviaQA}: A large scale distantly supervised
+  challenge dataset for reading comprehension}, in:
+  \bibinfo{booktitle}{Proceedings of the 55th Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, pp. \bibinfo{pages}{1601--1611}.
+%Type = Article
+\bibitem[{Kadavath et~al.(2022)Kadavath, Conerly, Askell, Henighan, Drain,
+  Perez, Schiefer, Hatfield-Dodds, DasSarma, Tran-Johnson
+  et~al.}]{kadavath2022know}
+\bibinfo{author}{Kadavath, S.}, \bibinfo{author}{Conerly, T.},
+  \bibinfo{author}{Askell, A.}, \bibinfo{author}{Henighan, T.},
+  \bibinfo{author}{Drain, D.}, \bibinfo{author}{Perez, E.},
+  \bibinfo{author}{Schiefer, N.}, \bibinfo{author}{Hatfield-Dodds, Z.},
+  \bibinfo{author}{DasSarma, N.}, \bibinfo{author}{Tran-Johnson, E.}, et~al.,
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Language models (mostly) know what they know}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2207.05221} .
+%Type = Inproceedings
+\bibitem[{Karpukhin et~al.(2020)Karpukhin, O{\u{g}}uz, Min, Lewis, Wu, Edunov,
+  Chen and Yih}]{karpukhin2020dpr}
+\bibinfo{author}{Karpukhin, V.}, \bibinfo{author}{O{\u{g}}uz, B.},
+  \bibinfo{author}{Min, S.}, \bibinfo{author}{Lewis, P.}, \bibinfo{author}{Wu,
+  L.}, \bibinfo{author}{Edunov, S.}, \bibinfo{author}{Chen, D.},
+  \bibinfo{author}{Yih, W.t.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Dense passage retrieval for open-domain question
+  answering}, in: \bibinfo{booktitle}{Proceedings of the 2020 Conference on
+  Empirical Methods in Natural Language Processing (EMNLP)}, pp.
+  \bibinfo{pages}{6769--6781}.
+%Type = Inproceedings
+\bibitem[{Kuhn et~al.(2023)Kuhn, Gal and Farquhar}]{kuhn2023semantic}
+\bibinfo{author}{Kuhn, L.}, \bibinfo{author}{Gal, Y.},
+  \bibinfo{author}{Farquhar, S.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Semantic uncertainty: Linguistic invariances for
+  uncertainty estimation in natural language generation}, in:
+  \bibinfo{booktitle}{International Conference on Learning Representations
+  (ICLR)}.
+%Type = Inproceedings
+\bibitem[{Kumar et~al.(2023)Kumar, Lu, Gupta, Palepu, Bellamy, Raskar and
+  Beam}]{kumar2023conformalqa}
+\bibinfo{author}{Kumar, B.}, \bibinfo{author}{Lu, C.}, \bibinfo{author}{Gupta,
+  G.}, \bibinfo{author}{Palepu, A.}, \bibinfo{author}{Bellamy, D.},
+  \bibinfo{author}{Raskar, R.}, \bibinfo{author}{Beam, A.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Conformal prediction with large language models for
+  multi-choice question answering}, in: \bibinfo{booktitle}{ICML Workshop on
+  Neural Conversational AI (TEACH)}.
+%Type = Inproceedings
+\bibitem[{Lewis et~al.(2020)Lewis, Perez, Piktus, Petroni, Karpukhin, Goyal,
+  K{\"u}ttler, Lewis, Yih, Rockt{\"a}schel, Riedel and Kiela}]{lewis2020rag}
+\bibinfo{author}{Lewis, P.}, \bibinfo{author}{Perez, E.},
+  \bibinfo{author}{Piktus, A.}, \bibinfo{author}{Petroni, F.},
+  \bibinfo{author}{Karpukhin, V.}, \bibinfo{author}{Goyal, N.},
+  \bibinfo{author}{K{\"u}ttler, H.}, \bibinfo{author}{Lewis, M.},
+  \bibinfo{author}{Yih, W.t.}, \bibinfo{author}{Rockt{\"a}schel, T.},
+  \bibinfo{author}{Riedel, S.}, \bibinfo{author}{Kiela, D.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Retrieval-augmented generation for
+  knowledge-intensive {NLP} tasks}, in: \bibinfo{booktitle}{Advances in Neural
+  Information Processing Systems (NeurIPS)}, pp. \bibinfo{pages}{9459--9474}.
+%Type = Inproceedings
+\bibitem[{Li et~al.(2024)Li, Park, Lee and Bastani}]{li2024traq}
+\bibinfo{author}{Li, S.}, \bibinfo{author}{Park, S.}, \bibinfo{author}{Lee,
+  I.}, \bibinfo{author}{Bastani, O.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{{TRAQ}: Trustworthy retrieval augmented question
+  answering via conformal prediction}, in: \bibinfo{booktitle}{Proceedings of
+  the 2024 Conference of the North American Chapter of the Association for
+  Computational Linguistics (NAACL)}, pp. \bibinfo{pages}{3799--3821}.
+%Type = Inproceedings
+\bibitem[{Mallen et~al.(2023)Mallen, Asai, Zhong, Das, Khashabi and
+  Hajishirzi}]{mallen2023popqa}
+\bibinfo{author}{Mallen, A.}, \bibinfo{author}{Asai, A.},
+  \bibinfo{author}{Zhong, V.}, \bibinfo{author}{Das, R.},
+  \bibinfo{author}{Khashabi, D.}, \bibinfo{author}{Hajishirzi, H.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{When not to trust language models: Investigating the
+  effectiveness of parametric and non-parametric memories}, in:
+  \bibinfo{booktitle}{Proceedings of the 61st Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, pp. \bibinfo{pages}{9802--9822}.
+%Type = Inproceedings
+\bibitem[{Manakul et~al.(2023)Manakul, Liusie and
+  Gales}]{manakul2023selfcheckgpt}
+\bibinfo{author}{Manakul, P.}, \bibinfo{author}{Liusie, A.},
+  \bibinfo{author}{Gales, M.J.F.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{SelfCheckGPT}: Zero-resource black-box hallucination
+  detection for generative large language models}, in:
+  \bibinfo{booktitle}{Proceedings of the 2023 Conference on Empirical Methods
+  in Natural Language Processing (EMNLP)}, pp. \bibinfo{pages}{9004--9017}.
+%Type = Inproceedings
+\bibitem[{Quach et~al.(2024)Quach, Fisch, Schuster, Yala, Sohn, Jaakkola and
+  Barzilay}]{quach2024conformallm}
+\bibinfo{author}{Quach, V.}, \bibinfo{author}{Fisch, A.},
+  \bibinfo{author}{Schuster, T.}, \bibinfo{author}{Yala, A.},
+  \bibinfo{author}{Sohn, J.H.}, \bibinfo{author}{Jaakkola, T.S.},
+  \bibinfo{author}{Barzilay, R.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Conformal language modeling}, in:
+  \bibinfo{booktitle}{International Conference on Learning Representations
+  (ICLR)}.
+%Type = Article
+\bibitem[{{Qwen Team}(2024)}]{qwen2025technical}
+\bibinfo{author}{{Qwen Team}}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Qwen2.5 technical report}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2412.15115} .
+%Type = Inproceedings
+\bibitem[{Ren et~al.(2023)Ren, Dixit, Bodrova, Singh, Tu, Brown, Xu, Takayama,
+  Xia, Varley, Xu, Sadigh, Zeng and Majumdar}]{ren2023knowno}
+\bibinfo{author}{Ren, A.Z.}, \bibinfo{author}{Dixit, A.},
+  \bibinfo{author}{Bodrova, A.}, \bibinfo{author}{Singh, S.},
+  \bibinfo{author}{Tu, S.}, \bibinfo{author}{Brown, N.}, \bibinfo{author}{Xu,
+  P.}, \bibinfo{author}{Takayama, L.}, \bibinfo{author}{Xia, F.},
+  \bibinfo{author}{Varley, J.}, \bibinfo{author}{Xu, Z.},
+  \bibinfo{author}{Sadigh, D.}, \bibinfo{author}{Zeng, A.},
+  \bibinfo{author}{Majumdar, A.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Robots that ask for help: Uncertainty alignment for
+  large language model planners}, in: \bibinfo{booktitle}{Conference on Robot
+  Learning (CoRL)}.
+%Type = Inproceedings
+\bibitem[{Su et~al.(2024)Su, Tang, Ai, Wu and Liu}]{su2024dragin}
+\bibinfo{author}{Su, W.}, \bibinfo{author}{Tang, Y.}, \bibinfo{author}{Ai, Q.},
+  \bibinfo{author}{Wu, Z.}, \bibinfo{author}{Liu, Y.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{{DRAGIN}: Dynamic retrieval augmented generation
+  based on the information needs of large language models}, in:
+  \bibinfo{booktitle}{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, pp. \bibinfo{pages}{12991--13005}.
+%Type = Inproceedings
+\bibitem[{Tibshirani et~al.(2019)Tibshirani, Foygel~Barber, Cand{\`e}s and
+  Ramdas}]{tibshirani2019covariate}
+\bibinfo{author}{Tibshirani, R.J.}, \bibinfo{author}{Foygel~Barber, R.},
+  \bibinfo{author}{Cand{\`e}s, E.}, \bibinfo{author}{Ramdas, A.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Conformal prediction under covariate shift}, in:
+  \bibinfo{booktitle}{Advances in Neural Information Processing Systems
+  (NeurIPS)}.
+%Type = Article
+\bibitem[{Vovk(2012)}]{vovk2012conditional}
+\bibinfo{author}{Vovk, V.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Conditional validity of inductive conformal
+  predictors}.
+\newblock \bibinfo{journal}{Proceedings of Machine Learning Research (ACML)}
+  \bibinfo{volume}{25}, \bibinfo{pages}{475--490}.
+%Type = Book
+\bibitem[{Vovk et~al.(2005)Vovk, Gammerman and Shafer}]{vovk2005algorithmic}
+\bibinfo{author}{Vovk, V.}, \bibinfo{author}{Gammerman, A.},
+  \bibinfo{author}{Shafer, G.}, \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Algorithmic Learning in a Random World}.
+\newblock \bibinfo{publisher}{Springer}.
+%Type = Inproceedings
+\bibitem[{Wang et~al.(2023)Wang, Wei, Schuurmans, Le, Chi, Narang, Chowdhery
+  and Zhou}]{wang2023selfconsistency}
+\bibinfo{author}{Wang, X.}, \bibinfo{author}{Wei, J.},
+  \bibinfo{author}{Schuurmans, D.}, \bibinfo{author}{Le, Q.V.},
+  \bibinfo{author}{Chi, E.H.}, \bibinfo{author}{Narang, S.},
+  \bibinfo{author}{Chowdhery, A.}, \bibinfo{author}{Zhou, D.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Self-consistency improves chain of thought reasoning
+  in language models}, in: \bibinfo{booktitle}{International Conference on
+  Learning Representations (ICLR)}.
+%Type = Inproceedings
+\bibitem[{Xiong et~al.(2024)Xiong, Hu, Lu, Li, Fu, He and
+  Hooi}]{xiong2024llmuncertainty}
+\bibinfo{author}{Xiong, M.}, \bibinfo{author}{Hu, Z.}, \bibinfo{author}{Lu,
+  X.}, \bibinfo{author}{Li, Y.}, \bibinfo{author}{Fu, J.}, \bibinfo{author}{He,
+  J.}, \bibinfo{author}{Hooi, B.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Can {LLMs} express their uncertainty? an empirical
+  evaluation of confidence elicitation in {LLMs}}, in:
+  \bibinfo{booktitle}{International Conference on Learning Representations
+  (ICLR)}.
+%Type = Article
+\bibitem[{Yan et~al.(2024)Yan, Gu, Zhu and Ling}]{yan2024crag}
+\bibinfo{author}{Yan, S.Q.}, \bibinfo{author}{Gu, J.C.}, \bibinfo{author}{Zhu,
+  Y.}, \bibinfo{author}{Ling, Z.H.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Corrective retrieval augmented generation}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2401.15884} .
+
+\end{thebibliography}
